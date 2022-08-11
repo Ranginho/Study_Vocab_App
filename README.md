@@ -9,7 +9,7 @@ When user runs application, he/she chooses between all_words and unkown, then ap
 
 ## How to install and run the project:
 
-You need to install PySimpleGUI and then just run the main.py file (for windows command prompt: user should be in the directory where user saved main.py file and run 'python gre.py' command).
+You need to install PySimpleGUI and then just run the main.py file (for windows command prompt: user should be in the directory where user saved main.py file and run 'python main.py' command).
 
 ## Visual:
 ![gre](https://user-images.githubusercontent.com/85623531/169103788-7cbdd508-f75f-4949-b7de-4217cc550020.PNG)
